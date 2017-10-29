@@ -24,12 +24,13 @@ h1, h2, h3, h4, h5, h6, ul, p {
   width: 100%; }
   .site-header > .container {
     max-width: 1060px;
-    padding: 50px 0; }
+    padding-bottom: 50px; }
     .site-header > .container .front-img {
       width: 100%;
       margin-top: 30px; }
 
 .site-header .top-bar {
+  padding: 50px 0;
   display: flex;
   justify-content: space-between;
   align-items: center; }
